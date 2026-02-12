@@ -1,0 +1,8 @@
+*.debhelper
+*.log
+*.substvars
+/.debhelper/
+/_build/
+/debhelper-build-stamp
+/files
+/golang-github-a8m-envsubst-dev/

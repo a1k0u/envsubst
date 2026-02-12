@@ -1,0 +1,5 @@
+golang-github-a8m-envsubst (1.4.3-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #1127770)
+
+ -- Alexey Kosenko <leshakosenko9@gmail.com>  Thu, 12 Feb 2026 21:38:36 +0300
