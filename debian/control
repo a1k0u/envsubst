@@ -20,4 +20,5 @@ Depends: ${misc:Depends},
 Description: Environment variables substitution for Go (library)
  envsubst
  .
- Environment variables substitution for Go (https://godoc.org/github.com/a8m/envsubst)
+ Environment variables substitution for Go
+ (https://godoc.org/github.com/a8m/envsubst)
